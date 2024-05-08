@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 Hey Everyone! my name is Andres Jesus Rodriguez I am a Digital Media Student at the University of Central Florida and a Front-End Developer. I started with a background in Design and Art and slowly found myself pulled into the world of development. I'm always looking to learn more and to work in fun collaborative environments. 
 
-- 👨‍🎓 I am currently studying at the University of Central Florida Majoring in Web Design with a minor in CS
-- 🌱 I’m currently learning JavaScript, React, and C.
+- 👨‍🎓 I am currently studying at the University of Central Florida Majoring in Web Design and Development.
+- 🌱 I’m currently learning JavaScript, React, and Node.
 - 📫 How to reach me:www.linkedin.com/in/andres-rodriguez-343b83273
 - 🔭 I’m currently working on building my personal portfolio 😎
