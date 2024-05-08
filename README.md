@@ -25,7 +25,7 @@ Hey Everyone! my name is Andres Jesus Rodriguez I am a Digital Media Student at 
 
 I am a Web Design and Development student at the University of central florida and an Intern at Limbitless Solutions INC. After starting out with a background in design and art I slowly found myself pulled into the world of development. I'm always looking to learn more and to work in fun collaborative environments.
 
-![@AndresJesusRodriguez's Stats](https://github-readme-stats.vercel.app/api?username=<username>&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
+![AndresJesusRodriguez's Stats](https://github-readme-stats.vercel.app/api?username=<AndresJesusRodriguez>&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
 
 ## 🚀 About Me
 
