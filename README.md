@@ -34,7 +34,5 @@ I am a Web Design and Development student at the University of central florida. 
 - 📫 How to reach me:www.linkedin.com/in/andres-rodriguez-343b83273
 - 🔭 I’m currently working on building my personal portfolio 😎
 
-<--
 ## Tech Stack
 [![My Skills](https://skillicons.dev/icons?i=js,react,nextjs,nodejs,npm,html,css,sass,tailwind,bootstrap,figma,git,github,postman,vscode)](https://skillicons.dev)
--->
